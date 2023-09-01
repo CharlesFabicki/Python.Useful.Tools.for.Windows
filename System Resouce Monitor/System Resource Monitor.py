@@ -45,3 +45,13 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# This is a simple system monitor application built using Python's psutil library and the Tkinter framework. 
+# It provides real-time information on CPU usage, memory usage, and disk usage.
+# Usage
+# Once the application is running, you will see a window displaying the following information:
+
+# CPU Usage: Shows the current CPU usage as a percentage.
+# Memory Usage: Displays the current memory (RAM) usage as a percentage.
+# Disk Usage: Shows the current disk usage as a percentage for the root directory.
+# The information is updated every 5 seconds to provide real-time data on your system's performance.
